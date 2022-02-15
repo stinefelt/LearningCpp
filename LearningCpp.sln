@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EP-6 For Loops", "EP-6 For 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EP-7 While Loops", "EP-7 While Loops\EP-7 While Loops.vcxproj", "{E2EC4AD6-77F8-469C-BA44-B3DE2C824A11}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EP-8 Do While", "EP-8 Do While\EP-8 Do While.vcxproj", "{ADE55AEC-EBD4-4550-AE26-C993E1871E46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{E2EC4AD6-77F8-469C-BA44-B3DE2C824A11}.Release|x64.Build.0 = Release|x64
 		{E2EC4AD6-77F8-469C-BA44-B3DE2C824A11}.Release|x86.ActiveCfg = Release|Win32
 		{E2EC4AD6-77F8-469C-BA44-B3DE2C824A11}.Release|x86.Build.0 = Release|Win32
+		{ADE55AEC-EBD4-4550-AE26-C993E1871E46}.Debug|x64.ActiveCfg = Debug|x64
+		{ADE55AEC-EBD4-4550-AE26-C993E1871E46}.Debug|x64.Build.0 = Debug|x64
+		{ADE55AEC-EBD4-4550-AE26-C993E1871E46}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADE55AEC-EBD4-4550-AE26-C993E1871E46}.Debug|x86.Build.0 = Debug|Win32
+		{ADE55AEC-EBD4-4550-AE26-C993E1871E46}.Release|x64.ActiveCfg = Release|x64
+		{ADE55AEC-EBD4-4550-AE26-C993E1871E46}.Release|x64.Build.0 = Release|x64
+		{ADE55AEC-EBD4-4550-AE26-C993E1871E46}.Release|x86.ActiveCfg = Release|Win32
+		{ADE55AEC-EBD4-4550-AE26-C993E1871E46}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
