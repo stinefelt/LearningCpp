@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EP-7 While Loops", "EP-7 Wh
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EP-8 Do While", "EP-8 Do While\EP-8 Do While.vcxproj", "{ADE55AEC-EBD4-4550-AE26-C993E1871E46}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EP-9 Switch Case Statements", "EP-9 Switch Case Statements\EP-9 Switch Case Statements.vcxproj", "{579E7E44-7549-4666-8FD6-1CEAEF687838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{ADE55AEC-EBD4-4550-AE26-C993E1871E46}.Release|x64.Build.0 = Release|x64
 		{ADE55AEC-EBD4-4550-AE26-C993E1871E46}.Release|x86.ActiveCfg = Release|Win32
 		{ADE55AEC-EBD4-4550-AE26-C993E1871E46}.Release|x86.Build.0 = Release|Win32
+		{579E7E44-7549-4666-8FD6-1CEAEF687838}.Debug|x64.ActiveCfg = Debug|x64
+		{579E7E44-7549-4666-8FD6-1CEAEF687838}.Debug|x64.Build.0 = Debug|x64
+		{579E7E44-7549-4666-8FD6-1CEAEF687838}.Debug|x86.ActiveCfg = Debug|Win32
+		{579E7E44-7549-4666-8FD6-1CEAEF687838}.Debug|x86.Build.0 = Debug|Win32
+		{579E7E44-7549-4666-8FD6-1CEAEF687838}.Release|x64.ActiveCfg = Release|x64
+		{579E7E44-7549-4666-8FD6-1CEAEF687838}.Release|x64.Build.0 = Release|x64
+		{579E7E44-7549-4666-8FD6-1CEAEF687838}.Release|x86.ActiveCfg = Release|Win32
+		{579E7E44-7549-4666-8FD6-1CEAEF687838}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
